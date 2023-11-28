@@ -1,0 +1,1 @@
+# History_Blokada_Quote_Card
