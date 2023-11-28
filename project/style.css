@@ -1,0 +1,115 @@
+#button_back{
+    background-color: #C54949;
+    border: #C54949;
+    border-radius: 10px;
+    width: 35px;
+    height: 35px;
+    margin: 0px;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    background-image: url("Arrow1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@font-face {
+    font-family: "Izax";
+    src: url(mr_Izax_Thin/mr_izax_thin_izax.otf) format("opentype");
+}
+
+@font-face {
+    font-family: "Cygre";
+    src: url(Cygre_Book/Cygre_Book.ttf);
+}
+
+
+#rect{
+    border: 1px black solid;
+    background-color: snow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#rect p{
+    margin: 10px;
+}
+
+#quote_text{
+    font-family: "Izax";
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#adress_span{
+    font-family: "Cygre";
+    color: #6D6D6D;
+    font-size: 10px;
+    display: block;
+    text-align: right;
+    margin-right: 12px;
+    margin-top: 23px;
+}
+
+#img_map{
+    margin: 10px;
+}
+
+#sign{
+    font-family: "Cygre";
+    color: #6D6D6D;
+    font-size: 12px;
+    display: block;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.divider_class{
+    height: 1px;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.location p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif; /* поменять*/
+    font-size: 12px;
+    color: #4F89A6;
+}   
+
+#rect a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* поменять */
+    font-size: 12px;
+    color: #367493;
+    margin-left: 10px;
+}
+
+
+#coords{
+    color: #656773;
+    font-size: 9px;
+}
+
+.keywords{
+    margin-top: 10px;
+}
+
+.keywords span{
+    color: black;
+    width: 20px;
+    margin-top: 135px;
+    padding: 3px 5px;
+}
+
+#tag1{
+    margin-left: 10px;
+    background-color: #DFBC9A;
+}
+
+#tag2{
+    background-color: #EDC7C7;
+}
+
